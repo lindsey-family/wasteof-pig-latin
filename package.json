@@ -1,12 +1,12 @@
 {
-  "name": "express-test",
+  "name": "wasteof-pig-latin",
   "version": "1.0.0",
-  "description": "A test of express",
+  "description": "pig latin",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Oren",
+  "author": "Oren and simeon",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
