@@ -1,0 +1,19 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "A test of express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oren",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pig-latin": "^2.0.2",
+    "pig-latinizer": "^1.0.6",
+    "piglatin": "^0.1.2",
+    "wasteof-client": "^2.0.0",
+    "yapiglatin": "^1.0.4"
+  }
+}
